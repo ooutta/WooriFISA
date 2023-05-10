@@ -1,8 +1,11 @@
 # 우리FISA
 우리FISA 클라우드 서비스 개발자 과정에 참여하며 수행한 프로젝트, 블로그를 정리하였습니다.
-
+<div align="center">
+  <img src="img/wooriFISA_main.png" width=400px>
+</div>
 
 [우리FIS 아카데미](http://www.woorifis.com/kor/peoplelife/futureLab/labInfo)
+<br>
 
 ## 🥚 Front End 과정
 #### 2023.04.24 ~ 5.25
