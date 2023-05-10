@@ -8,7 +8,7 @@
 #### 2023.04.24 ~ 5.25
 |Project|Skills|Repository|
 |-|-|-|
-|우리FIS 주변 편의 시설 정보를 모아 소개|HTML, CSS|[moamoa] (https://github.com/ooutta/moamoa)|
+|우리FIS 주변 편의 시설 정보를 모아 소개|HTML, CSS|[moamoa](https://github.com/ooutta/moamoa)|
 |네이버 API를 활용한 닮은꼴 찾기 서비스|HTML, CSS, Javascript, Node.js|[find-your-similarity](https://github.com/ooutta/find-your-similarity)|
 
 <br>
