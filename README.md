@@ -31,7 +31,9 @@ https://github.com/ooutta/wooriFISA-class
 ## 🍳 Back End 과정
 #### 2023.05.26 ~ 07.18
 ### Project
-
+|Project|Skills|Repository|
+|-|-|-|
+|다빈치 코드 보드 게임|`Java`|[Gosling Game](https://github.com/woorifisa-service-dev/backend-1st-goslingcode)|
 <br>
 
 ### Tech Seminar
