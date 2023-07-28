@@ -37,7 +37,9 @@ https://github.com/ooutta/wooriFISA-class
 <br>
 
 ### Tech Seminar
-
+|주제|담당|Content|
+|-|-|-|
+|웹의 진화 과정, 그리고 Spring|정적웹, CGI, Servlet, JSP|[발표 자료](https://github.com/ooutta/wooriFISA/blob/main/content/%EC%9B%B9%EC%9D%98%20%EC%A7%84%ED%99%94%20%EA%B3%BC%EC%A0%95%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20Spring.md)|
 <br>
 
 ### Class Code
@@ -52,7 +54,9 @@ https://github.com/ooutta/wooriFISA-back-end
 <br>
 
 ### Tech Seminar
-
+|주제|Content|
+|-|-|
+|탄력적 IP|[발표 자료](https://github.com/ooutta/wooriFISA/blob/main/content/%ED%83%84%EB%A0%A5%EC%A0%81%20IP.md)|
 <br>
 
 ### Class Code
