@@ -9,6 +9,13 @@
 
 ## 🥚 Front End 과정
 #### 2023.04.24 ~ 5.25
+#### Skiils
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+<br>
+
 ### Project
 |Project|Skills|Repository|
 |-|-|-|
@@ -30,6 +37,14 @@ https://github.com/ooutta/wooriFISA-class
 
 ## 🍳 Back End 과정
 #### 2023.05.26 ~ 07.18
+#### Skiils
+- Java
+- Servlet/JSP
+- JDBC/JPA
+- Spring Boot
+- MySQL
+<br>
+
 ### Project
 |Project|Skills|Repository|
 |-|-|-|
@@ -50,8 +65,11 @@ https://github.com/ooutta/wooriFISA-back-end
 
 ## ☁️ Cloud Native 과정
 #### 2023.07.19 ~ 08.01
-### Project
-
+#### Skiils
+- Docker
+- Jenkins
+- AWS EC2
+- (Kubernetes/MSA) 
 <br>
 
 ### Tech Seminar
@@ -59,5 +77,3 @@ https://github.com/ooutta/wooriFISA-back-end
 |-|-|
 |탄력적 IP|[발표 자료](https://github.com/ooutta/wooriFISA/blob/main/content/%ED%83%84%EB%A0%A5%EC%A0%81%20IP.md)|
 <br>
-
-### Class Code
