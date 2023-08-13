@@ -27,7 +27,7 @@
 ### Tech Seminar 
 |주제|담당|발표 자료|Repository|
 |-|-|-|-|
-|Why we use Vue.js|SSR, CSR|[발표 자료(작성중)](https://github.com/ooutta/wooriFISA/blob/main/content/Why%20we%20use%20Vue.js.md)|[woorifisa-fe-tech-seminar-code](https://github.com/ooutta/woorifisa-fe-tech-seminar)|
+|Why we use Vue.js|SSR, CSR|[발표 자료](https://github.com/ooutta/wooriFISA/blob/main/content/Why%20we%20use%20Vue.js.md)|[woorifisa-fe-tech-seminar-code](https://github.com/ooutta/woorifisa-fe-tech-seminar)|
 <br>
 
 ### Class Code
@@ -55,7 +55,7 @@ https://github.com/ooutta/wooriFISA-class
 ### Tech Seminar
 |주제|담당|Content|
 |-|-|-|
-|웹의 진화 과정, 그리고 Spring|정적웹, CGI, Servlet, JSP|[발표 자료(작성중)](https://github.com/ooutta/wooriFISA/blob/main/content/%EC%9B%B9%EC%9D%98%20%EC%A7%84%ED%99%94%20%EA%B3%BC%EC%A0%95%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20Spring.md)|
+|웹의 진화 과정, 그리고 Spring|정적웹, CGI, Servlet, JSP|[발표 자료](https://github.com/ooutta/wooriFISA/blob/main/content/%EC%9B%B9%EC%9D%98%20%EC%A7%84%ED%99%94%20%EA%B3%BC%EC%A0%95%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20Spring.md)|
 <br>
 
 ### Class Code
