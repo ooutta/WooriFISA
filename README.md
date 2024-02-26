@@ -7,6 +7,24 @@
 [우리FIS 아카데미](http://www.woorifis.com/kor/peoplelife/futureLab/labInfo)
 <br>
 
+## 🥚 Final Project
+#### 2023.08.02 ~ 09.19
+#### Skiils
+- Java11, Spring Boot2.7.14
+- Spring Security, JWT
+- QueryDSL
+- JUnit5, REST Docs
+- MySQL
+- AWS
+<br>
+
+### Project
+|Project|Role|Repository|
+|-|-|-|
+|자동차 종합정보를 활용한 대출 연계 중고차거래 서비스-🏆우리FISA 최종 프로젝트 최우수상|Back-end, Unit test, Integration Test, Infra|[woochacha](https://github.com/woorifisa-projects/woochacha)|
+<br>
+<br>
+
 ## 🥚 Front End 과정
 #### 2023.04.24 ~ 5.25
 #### Skiils
